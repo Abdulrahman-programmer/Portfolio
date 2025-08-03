@@ -1,7 +1,7 @@
 # 💼 Personal Portfolio
 
 Welcome to my personal portfolio!  
-This project showcases my skills, projects, and experiences as a budding web developer. Built using **HTML**, **CSS**, **JavaScript**, and **Tailwind CSS**, this responsive portfolio is designed for both desktop and mobile screens.
+This project showcases my skills, projects, and experiences as a budding web developer. Built using **HTML** and **Tailwind CSS**, this responsive portfolio is designed for both desktop and mobile screens.
 
 ## 🧑‍💻 About Me
 
